@@ -1,0 +1,1617 @@
+@media all and (min-width: 1250px) {
+
+    body>section:nth-child(2)>img {
+
+        width: 475px;
+        right: 25px;
+        top: 77px;
+    }
+
+    body>section:nth-child(2)>div>img {
+        height: 65px;
+        padding: 12px;
+    }
+
+    body>section:nth-child(2)>div>img:hover{
+        height: 70px;
+        transition: 1s;
+    }
+
+    body>section:nth-child(2)>div {
+
+        left: 25px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(1) {
+        font-size: 20px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 55px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 35px;
+
+    }
+
+    body>section:nth-child(2)>ul {
+        left: 15px;
+
+    }
+
+    body>section:nth-child(3) {
+        height: 991px;
+    }
+
+    .downloadButton {
+        position: absolute;
+        left: 73px;
+        bottom: 10px;
+        display: inline-block;
+    }
+
+    #detailsBOX {
+        width: 1165px;
+
+    }
+
+    body>section:nth-child(5)>div {
+        width: 697px;
+    }
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            left: -10px;
+        }
+        to{
+            opacity: 1;
+            left: 15px;
+        }
+    }
+
+}
+
+
+@media all and (min-width: 1400px) {
+
+    body>section:nth-child(2)>img {
+        width: 510px;
+
+    }
+
+    .bar {
+
+        width: 639px;
+    }
+
+    body>section:nth-child(3)>img {
+
+        left: 149px;
+    }
+
+    #detailsBOX {
+        width: 1272px;
+    }
+
+
+    .Skills {
+        width: 726px;
+        left: 664px;
+        top: 105px;
+    }
+
+    #detailsBOX>p {
+        font-size: 20px;
+    }
+
+    body>section:nth-child(5)>div {
+        width: 737px;
+    }
+
+    .assignment {
+        width: 190px;
+    }
+
+    .assignment:hover{
+        width: 215px;
+    }
+
+    .assignment-name:hover{
+        bottom: 0;
+    }
+
+
+    .form-control {
+        margin-bottom: 26px;
+        width: 286px;
+        height: 26px;
+    }
+
+    body>section:nth-child(6)>div {
+        display: inline-block;
+        position: absolute;
+        right: 88px;
+    }
+
+/*    ------------------Animation----------------------------------*/
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            left: -10px;
+        }
+        to{
+            opacity: 1;
+            left: 15px;
+        }
+    }
+}
+
+@media all and (max-width: 1310px) {
+
+    #detailsBOX {
+        width: 1095px;
+        height: 320px;
+        top: 155px;
+    }
+
+
+}
+
+
+
+@media all and (max-width: 1250px) {
+
+
+    #box{
+        left: 212px;
+    }
+
+
+    body>section:nth-child(2)>img {
+
+        width: 475px;
+        right: 20px;
+        top: 77px;
+    }
+
+    body>section:nth-child(2)>div>img {
+        height: 50px;
+        padding: 8px;
+    }
+
+    body>section:nth-child(2)>div>img:hover{
+        height: 60px;
+        transition: 1s;
+    }
+
+    body>section:nth-child(2)>div {
+
+        left: 35px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(1) {
+        font-size: 16px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 45px;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 25px;
+
+    }
+
+    body>section:nth-child(3)>img {
+        height: 365px;
+    }
+
+    body>section:nth-child(2)>ul {
+        left: 2px;
+    }
+
+    .bar {
+        display: block;
+        height: 8px;
+        width: 394px
+    }
+
+    .Skills {
+        width: 452px;
+        left: 552px;
+        top: 104px;
+    }
+
+    #detailsBOX {
+
+        width: 947px;
+        height: 320px;
+        top: 155px
+    }
+
+
+    body>section:nth-child(3)>img {
+        height: 400px;
+        left: 70px;
+        top: 152px;
+    }
+
+
+    body>section:nth-child(3) {
+        width: 100%;
+        height: 1048px;
+    }
+
+    #who {
+        font-size: 40px;
+    }
+
+    body>section:nth-child(6)>img {
+        width: 385px;
+        position: relative;
+        top: 364px;
+        left: 53px;
+    }
+
+
+    /*    ------------------Animation----------------------------------*/
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            left: -10px;
+        }
+        to{
+            opacity: 1;
+            left: 15px;
+        }
+    }
+
+
+}
+
+@media all and (max-width: 1150px) {
+
+    .assignment {
+        width: 155px;
+    }
+
+    body>section:nth-child(5)>div {
+        width: 579px;
+    }
+
+    body>section:nth-child(5)>img {
+        width: 455px;
+    }
+
+    body>section:nth-child(5)>div div {
+        width: 165px;
+        height: 157px;
+    }
+
+
+
+    .workImage {
+        width: 256px;
+    }
+
+    .imageDiv {
+        margin-right: 19px;
+        margin-left: 45px;
+    }
+
+
+
+    /*    ------------------Animation----------------------------------*/
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            left: -10px;
+        }
+        to{
+            opacity: 1;
+            left: 2px;
+        }
+    }
+
+}
+
+
+
+
+@media all and (max-width: 1020px) {
+
+    #box{
+        left: 130px;
+    }
+
+    body>section:nth-child(2)>img {
+
+        right: 10px;
+
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 30px;
+        font-weight: bold;
+    }
+
+    body>section:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 20px;
+        color: #3cdfff;
+    }
+
+    body>section:nth-child(2)>div {
+        bottom: 25px;
+        left: 20px;
+    }
+
+    body>section:nth-child(2)>div>img {
+        height: 43px;
+        padding: 5px;
+    }
+
+
+    body>section:nth-child(3)>img {
+        height: 305px;
+    }
+
+    body>section:nth-child(2)>ul {
+        left: 2px;
+    }
+
+
+    #aboutImages {
+        width: 410px;
+        height: 437px;
+        position: relative;
+        left: 26px;
+        top: 115px;
+    }
+
+    #aboutImages>img {
+        height: 365px;
+    }
+
+    .Skills {
+        width: 418px;
+        left: 450px;
+        top: 70px;
+    }
+
+    #detailsBOX {
+        width: 810px;
+        height: 414px;
+        top: 113px;
+    }
+
+    #who {
+
+    }
+
+
+    .workImage {
+         width: 210px;
+     }
+
+    .imageDiv {
+        margin-right: 19px;
+        margin-left: 40px;
+    }
+
+    body>section:nth-child(5)>img {
+        width: 430px;
+    }
+
+    body>section:nth-child(5)>h1:nth-child(1) {
+        left: 75px;
+    }
+
+    body>section:nth-child(5)>h1:nth-child(2) {
+        font-size: 30px;
+        right: 238px;
+    }
+
+    .assignment {
+        width: 130px;
+    }
+
+    body>section:nth-child(5)>div div {
+        width: 141px;
+        height: 150px;
+    }
+
+
+
+    body>section:nth-child(5)>div {
+        width: 510px;
+        top: 106px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 30px;
+    }
+
+    .form-control {
+        margin-bottom: 25px;
+        width: 256px;
+    }
+
+    #Massage {
+        width: 315px;
+    }
+
+
+    }
+
+
+
+@media all and (max-width: 900px){
+
+    nav{
+        padding: 5px 5px;
+    }
+    nav ul li.items{
+        width: 100%;
+        display: none;
+    }
+    nav ul li.items.show{
+        display: block;
+    }
+    nav ul li.btn{
+        display: block;
+    }
+    nav ul li.items:hover{
+        border-radius: 5px;
+        box-shadow: inset 0 0 5px #33ffff,
+        inset 0 0 10px #66ffff;
+    }
+    nav ul li.items:hover:after{
+        opacity: 0;
+    }
+
+    .fas {
+
+        font-size: 42px;
+        right: 45px;
+    }
+
+
+    #box {
+        bottom: 170px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 200px;
+    }
+
+    body>section:nth-child(2)>img {
+        display: none;
+
+    }
+
+
+    #head>li:nth-child(1) {
+        font-size: 24px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 93px;
+        margin: auto;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 35px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 40px;
+        margin: auto;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 23px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 10px;
+        margin: auto;
+    }
+
+    body>section:nth-child(2)>ul {
+        bottom: 283px;
+        width: 530px;
+        position: absolute;
+        /* bottom: 0; */
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+
+    body>section:nth-child(2)>div>img {
+
+        padding: 8px;
+    }
+
+    #icon {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 400px;
+        height: 60px;
+    }
+
+    #detailsBOX {
+        width: 795px;
+    }
+
+
+    /*    ------------------Animation----------------------------------*/
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            left: -10px;
+        }
+        to{
+            opacity: 1;
+            left: 15px;
+        }
+    }
+
+
+
+}
+
+
+@media all and (max-width: 878px) {
+
+
+
+    body>section:nth-child(2)>ul {
+        left: 10px;
+
+    }
+
+    #head>li:nth-child(1) {
+        font-size: 26px;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 33px;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 23px;
+    }
+
+    #icon {
+        position: absolute;
+        left: 0;
+        right: 0;
+        margin: auto;
+        width: 378px;
+        height: 52px;
+    }
+
+    #icon>img{
+        height: 45px;
+        padding: 5px;
+
+    }
+
+
+    .bar {
+        display: block;
+        height: 5px;
+        width: 335px;
+    }
+
+    .Skills {
+        width: 364px;
+        left: 390px;
+        top: 64px;
+    }
+
+    #detailsBOX {
+        width: 706px;
+        height: 487px;
+        top: 136px;
+        left: 38px;
+    }
+
+
+    body>section:nth-child(3)>img {
+        height: 306px;
+        left: 24px;
+        top: 136px;
+    }
+
+
+
+    body>section:nth-child(3) {
+        width: 100%;
+        height: 1063px;
+
+    }
+
+    #who {
+        font-size: 36px;
+    }
+
+    #aboutImages>img {
+        height: 350px;
+    }
+
+    #aboutImages {
+        width: 377px;
+        height: 422px;
+    }
+
+    .downloadButton {
+        position: absolute;
+        width: 145px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    body>section:nth-child(4)>div {
+        width: 90%;
+        height: 167px;
+    }
+
+    .workImage {
+        width: 173px;
+    }
+
+    .worksName {
+        font-size: 15px;
+    }
+
+    .imageDiv {
+        margin-right: 9px;
+        margin-left: 35px;
+        height: 150px;
+    }
+
+    body>section:nth-child(4)>h2 {
+        bottom: 30px;
+    }
+
+    body>section:nth-child(4) {
+        width: 100%;
+        height: 300px;
+    }
+
+    body>section:nth-child(5)>img {
+       display: none;
+    }
+
+    body>section:nth-child(5)>h1:nth-child(1) {
+        position: absolute;
+        width: max-content;
+        height: max-content;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 10px;
+    }
+
+    body>section:nth-child(5)>h1:nth-child(2) {
+        position: absolute;
+        width: max-content;
+        height: max-content;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 60px;
+
+    }
+
+    body>section:nth-child(5)>div {
+        width: 530px;
+        position: absolute;
+        top: 134px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+    .assignment {
+        width: 140px;
+    }
+
+    body>section:nth-child(5)>div div {
+        margin-left: 20px;
+        margin-top: 20px;
+    }
+
+
+
+    body>section:nth-child(6)>div:nth-child(2) {
+        width: 391px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(1) {
+        font-size: 40px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 20px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 20px;
+    }
+
+    body>section:nth-child(6)>img {
+        width: 349px;
+        position: relative;
+        top: 392px;
+        left: 24px;
+    }
+
+}
+
+
+@media all and (max-width: 754px) {
+
+    #aboutImages>img {
+        height: 335px;
+    }
+
+    #aboutImages {
+            width: 348px;
+            height: 403px;
+    }
+
+    .Skills {
+        width: 365px;
+        left: 355px;
+        top: 63px;
+    }
+
+    #detailsBOX {
+        width: 675px;
+    }
+
+
+}
+
+@media all and (max-width: 728px) {
+
+    #head>li:nth-child(1) {
+        font-size: 20px;
+    }
+    #head>li:nth-child(2) {
+        font-size: 32px;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 23px;
+    }
+
+    body>section:nth-child(2)>ul {
+        left: -10px;
+        bottom: 283px;
+    }
+
+    body>header {
+        height: 48px;
+
+    }
+
+
+    nav ul li a {
+        font-size: 22px;
+
+    }
+
+    body>section:nth-child(2) {
+        position: relative;
+        width: 100%;
+        height: 578px;
+    }
+
+    nav ul li.logo {
+        font-size: 32px;
+    }
+
+
+
+
+    .bar {
+        display: block;
+        height: 5px;
+        width: 440px;
+    }
+
+    .Skills {
+        width: 500px;
+        position: absolute;
+        left: 0;
+        right: 0;
+        top: 1205px;
+        margin: auto;
+
+    }
+
+    #detailsBOX {
+        width: 500px;
+        position: absolute;
+        height: 960px;
+        top: 450px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+
+    body>section:nth-child(3)>img {
+
+        position: absolute;
+        height: 220px;
+        left: 0;
+        right: 0;
+        top: 74px;
+        margin: auto;
+    }
+
+
+
+    body>section:nth-child(3) {
+        width: 100%;
+        height: 1780px;
+
+    }
+
+
+
+
+    body>section:nth-child(4)>div {
+        width: 57%;
+        height: 567px;
+    }
+
+    .workImage {
+        width: 315px;
+    }
+
+    .worksName {
+        font-size: 15px;
+    }
+
+    .imageDiv {
+        margin-right: 0;
+        margin-left: 0;
+        height: 200px;
+        width: 321px;
+        margin-bottom: 50px;
+    }
+
+    body>section:nth-child(4)>h2 {
+        bottom: 30px;
+    }
+
+    body>section:nth-child(4) {
+        width: 100%;
+        height: 875px;
+    }
+
+    .assignment {
+        width: 130px;
+    }
+
+    body>section:nth-child(6)>img {
+
+        width: 250px;
+        position: absolute;
+        top: 384px;
+        left: 356px;
+
+    }
+
+    body>section:nth-child(6)>div:nth-child(2) {
+        width: 356px;
+        left: 283px;
+    }
+
+    body>section:nth-child(6)>div {
+        left: 24px;
+        top: 115px;
+    }
+
+    #aboutImages {
+        width: 348px;
+        height: 403px;
+        position: absolute;
+        left: 0;
+        top: 65px;
+        /* bottom: 0; */
+        right: 0;
+        margin: auto;
+    }
+
+
+
+
+
+
+}
+
+@media all and (max-width: 652px) {
+
+    body>section:nth-child(6)>img {
+
+    display: none;
+    }
+
+    body>section:nth-child(6)>div {
+        left: 53px;
+        top: 266px;
+        width: 340px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2) {
+        width: 356px;
+        left: 12px;
+        top: 5px;
+    }
+
+    body>section:nth-child(6) {
+        width: 100%;
+        height: 833px;
+    }
+
+    body>section:nth-child(2)>ul {
+        width: 450px;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 20px;
+    }
+
+
+
+    footer>h1 {
+        font-size: 12px;
+    }
+
+    #detailsBOX {
+        width: 425px;
+    }
+
+    .Skills {
+        width: 425px;
+    }
+
+    .bar {
+        width: 380px;
+    }
+
+
+
+}
+
+
+@media all and (max-width: 530px) {
+
+
+
+    .assignment {
+        width: 110px;
+    }
+
+    body>section:nth-child(5)>div {
+        width: 416px;
+    }
+
+    body>section:nth-child(5)>div div {
+        width: 120px;
+        height: 128px;
+    }
+
+    body>section:nth-child(5)>div div {
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+
+
+    footer>div:nth-child(1)>img {
+        height: 30px;
+        padding: 5px;
+    }
+
+    footer>div {
+        width: 280px;
+    }
+
+    #head>li:nth-child(1) {
+        font-size: 17px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 93px;
+        margin: auto;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 27px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 40px;
+        margin: auto;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 16px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 10px;
+        margin: auto;
+    }
+
+    body>section:nth-child(2)>ul {
+        bottom: 283px;
+        width: 303px;
+        position: absolute;
+        /* bottom: 0; */
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+
+    #box {
+
+
+        bottom: 170px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 150px;
+    }
+
+
+    /*    ------------------Animation----------------------------------*/
+
+    body>section:nth-child(2)>ul {
+        animation: myAni 2s;
+        animation-iteration-count: 1;
+        animation-fill-mode: forwards;
+        animation-delay: 900ms;
+
+    }
+
+
+    @keyframes myAni {
+        from{
+            opacity: 0;
+            bottom: 270px;
+        }
+        to{
+            opacity: 1;
+            bottom: 283px;
+        }
+    }
+
+
+
+
+
+
+
+
+
+
+}
+
+
+
+@media all and (max-width: 430px) {
+
+    #head>li:nth-child(1) {
+        font-size: 17px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 82px;
+        margin: auto;
+    }
+
+
+
+    #head>li:nth-child(2) {
+        font-size: 22px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 40px;
+        margin: auto;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 15px;
+        width: max-content;
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 10px;
+        margin: auto;
+    }
+
+    body>section:nth-child(2)>ul {
+        bottom: 283px;
+        width: 280px;
+        position: absolute;
+        /* bottom: 0; */
+        right: 0;
+        left: 0;
+        margin: auto;
+    }
+
+    body>header {
+        height: 48px;
+
+    }
+
+
+    nav ul li a {
+        font-size: 22px;
+
+    }
+
+    body>section:nth-child(2) {
+        position: relative;
+        width: 100%;
+        height: 578px;
+    }
+
+    nav ul li.logo {
+        font-size: 32px;
+    }
+
+
+
+    #box {
+        bottom: 190px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 150px;
+    }
+
+
+    .bar {
+        display: block;
+        height: 5px;
+        width: 300px;
+    }
+
+    .Skills {
+        width: 342px;
+        /* left: 41px; */
+        top: 1370px;
+    }
+
+    #detailsBOX {
+        width: 310px;
+        position: absolute;
+        height: 960px;
+        top: 420px;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+
+
+    body>section:nth-child(3)>img {
+
+        position: absolute;
+        height: 220px;
+        left: 0;
+        right: 0;
+        top: 74px;
+        margin: auto;
+    }
+
+
+
+    body>section:nth-child(3) {
+        width: 100%;
+        height: 1920px;
+
+    }
+
+    #who {
+        position: absolute;
+        font-size: 36px;
+        right: 0;
+        left: 0;
+        margin: auto;
+        top: 303px;
+    }
+
+    .downloadButton {
+        position: absolute;
+        width: 145px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        bottom: 11px;
+    }
+
+    body>section:nth-child(4)>div {
+        width: 74%;
+
+    }
+
+    body>section:nth-child(5)>div div {
+        width: 110px;
+        height: 128px;
+    }
+
+    .assignment {
+        width: 105px;
+    }
+
+    .assignment-name {
+        font-size: 18px;
+    }
+
+    .assignment-name {
+        font-size: 14px;
+    }
+
+    body>section:nth-child(5)>div {
+        width: 384px;
+        height: 430px;
+    }
+
+    body>section:nth-child(5) {
+        width: 100%;
+        height: 605px;
+    }
+
+    body>section:nth-child(6)>div {
+        left: 53px;
+        top: 266px;
+        width: 282px;
+        height: 538px;
+    }
+
+
+    #Massage {
+        width: 265px;
+    }
+
+    body>section:nth-child(6)>div {
+        height: 225px;
+        position: absolute;
+        left: 10px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul{
+        padding: 0;
+        display: inline-block;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2) {
+
+        left: 10px;
+
+    }
+
+    body>section:nth-child(6)>div:nth-child(2) {
+        width: 308px;
+    }
+
+    footer>h1 {
+        font-size: 11px;
+    }
+
+    #aboutImages>img {
+        height: 309px;
+    }
+
+
+
+}
+
+@media all and (max-width: 395px) {
+
+    #box {
+        bottom: 250px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 150px;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 24px;
+    }
+
+    #icon{
+
+        width: 320px;
+    }
+
+    #icon>img {
+        height: 37px;
+        padding: 4px;
+    }
+
+    .Skills {
+        width: 343px;
+        left: 0;
+        top: 1375px;
+    }
+
+    .bar {
+        display: block;
+        height: 5px;
+        width: 260px;
+    }
+
+    body>section:nth-child(4)>div {
+        width: 79%;
+    }
+
+    .workImage {
+        width: 285px;
+    }
+
+    .imageDiv {
+        width: 287px;
+    }
+
+
+    body>section:nth-child(5)>div div {
+        width: 77px;
+        height: 120px;
+    }
+
+    .assignment {
+        width: 100px;
+    }
+
+
+
+    .assignment-name {
+        font-size: 12px;
+        bottom: 0;
+    }
+
+    body>section:nth-child(5)>div {
+        width: 277px;
+        height: 290px;
+
+    }
+
+    body>section:nth-child(5)>h1:nth-child(2) {
+        font-size: 26px;
+    }
+
+    body>section:nth-child(5)>h1:nth-child(1) {
+        font-size: 32px;
+    }
+
+    body>section:nth-child(5)>div div {
+        margin-left: 14px;
+        width: 110px;
+        height: 85px;
+    }
+
+
+    footer>h1 {
+        font-size: 8px;
+    }
+
+    body>section:nth-child(2)>ul {
+        bottom: 288px;
+        width: 275px;
+    }
+
+    #aboutImages>img {
+        height: 290px;
+    }
+
+    #aboutImages {
+        width: 311px;
+        height: 369px;
+    }
+
+
+    body>section:nth-child(5) {
+
+        height: 570px;
+    }
+
+    .last{
+        display: none;
+    }
+
+    }
+
+
+@media all and (max-width: 340px) {
+
+    #who {
+        font-size: 33px;
+    }
+
+
+    #icon {
+        width: 272px;
+    }
+
+    #icon>img {
+        height: 30px;
+    }
+
+    #box {
+        left: 78px;
+        top: 379px;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 20px;
+    }
+
+    #head>li:nth-child(3) {
+        font-size: 13.5px;
+    }
+
+    nav ul li.logo {
+        font-size: 27px;
+    }
+
+
+    .Skills {
+        width: 285px;
+        left: -23px;
+        top: 1505px;
+    }
+
+    #detailsBOX {
+        width: 285px;
+    }
+
+    body>section:nth-child(3) {
+        width: 100%;
+        height: 2050px;
+    }
+
+    body>section:nth-child(4)>div {
+        width: 79%;
+    }
+
+    .bar {
+        display: block;
+        height: 5px;
+        width: 235px;
+    }
+
+    .workImage {
+        width: 253px;
+    }
+
+    .imageDiv {
+        width: 256px;
+        margin-bottom: 13px;
+    }
+
+    body>section:nth-child(4) {
+        width: 100%;
+        height: 763px;
+    }
+
+    body>section:nth-child(4)>h2 {
+        font-size: 15px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 19px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(2) {
+        font-size: 19px;
+    }
+
+    body>section:nth-child(2)>ul {
+        width: 240px;
+    }
+
+    #head>li:nth-child(2) {
+        font-size: 21px;
+    }
+
+    #box {
+        bottom: 250px;
+        position: absolute;
+        right: 0;
+        left: 0;
+        margin: auto;
+        width: 150px;
+    }
+
+
+}
+
+@media all and (max-width: 318px) {
+    body>section:nth-child(6)>div:nth-child(2) {
+        width: 290px;
+    }
+
+    body>section:nth-child(6)>div:nth-child(2)>ul>li:nth-child(3) {
+        font-size: 16px;
+    }
+
+}
+

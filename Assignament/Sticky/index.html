@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Card Using Sticky Positions</title>
+
+    <style>
+        section{
+            height: 100vh;
+            position: relative;
+        }
+
+        section>nav{
+            height: 100px;
+            position: sticky;
+            top: 0;
+            z-index: 2;
+
+        }
+
+        section:nth-child(1)>nav{
+            background: red;
+        }
+
+        section:nth-child(2)>nav{
+
+            background: purple;
+
+        }
+
+        section:nth-child(3)>nav{
+
+            background: deeppink;
+
+        }
+
+        section:nth-child(4)>nav{
+
+            background: aqua;
+
+        }
+
+        .name{
+            font-size: 70px;
+            color: black;
+            position: absolute;
+            width: max-content;
+            height: max-content;
+            top: 0;
+            bottom: 0;
+            right: 0;
+            left: 0;
+            margin: auto;
+            z-index: 1;
+
+        }
+    </style>
+</head>
+<body>
+<section>
+    <nav>
+
+    </nav>
+
+    <h1 class="name">
+       Navishka
+    </h1>
+</section>
+
+<section>
+    <nav>
+
+    </nav>
+
+    <h1 class="name">
+        How
+    </h1>
+</section>
+
+<section>
+    <nav>
+
+    </nav>
+
+    <h1 class="name">
+        Are
+    </h1>
+</section>
+
+<section>
+    <nav>
+
+    </nav>
+
+    <h1 class="name">
+        You?
+    </h1>
+</section>
+
+</body>
+</html>

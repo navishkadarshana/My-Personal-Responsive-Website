@@ -1,0 +1,225 @@
+body>section:nth-child(2)>img {
+
+    animation: myanimation1 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-delay: 900ms;
+}
+
+@keyframes myanimation1 {
+    from{
+        opacity: 0;
+        margin-right: 0;
+
+    }
+    to{
+        opacity: 1;
+
+        margin-right: 10px;
+    }
+}
+
+
+
+#box {
+    animation: myanimation2 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-delay: 900ms;
+
+}
+
+body>section:nth-child(2)>div>img {
+    animation: myanimation2 2s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+    animation-delay: 900ms;
+
+}
+
+@keyframes myanimation2 {
+    from{
+        opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+
+.imageDiv:hover{
+
+    transform: scale(1.2);
+    z-index: 1;
+    transition: 1s;
+
+}
+
+body>section:nth-child(5)>div div:hover {
+
+    transform: scale(1.2);
+    z-index: 1;
+    transition: 500ms;
+}
+
+body>section:nth-child(2)>div>img:hover{
+    transform: scale(1.2);
+    z-index: 2;
+    transition: 1s;
+}
+
+
+
+
+
+
+@media all and (min-width: 500px) {
+
+    body>section:nth-child(2)>ul>li:nth-child(3) {
+
+        overflow: hidden;
+        border-right: 1px solid blue;
+        white-space: nowrap;
+        letter-spacing: .1em;
+        margin: 10px 0 20px 0;
+        animation: typing 20s infinite, blink-caret .75s step-end infinite;
+
+    }
+
+}
+
+@media all and (max-width: 499px) {
+
+    body>section:nth-child(2)>ul>li:nth-child(3) {
+
+        overflow: hidden;
+        border-right: 1px solid blue;
+        white-space: nowrap;
+        margin: 10px 0 10px 0;
+        animation: typing 15s infinite, blink-caret .75s step-end infinite;
+
+    }
+
+}
+
+
+@keyframes typing{
+    0%{
+        width: 0;
+    }
+    50%{
+        width: 100%;
+    }
+    100%{
+        width: 0;
+    }
+}
+
+
+
+
+.html.is-visible{
+     width: 90%;
+     animation: html 2s alternate;
+ }
+
+.Presentation.is-visible{
+    width: 90%;
+    animation: html 2s alternate;
+}
+
+.Programming.is-visible{
+    width: 90%;
+    animation: html 2s alternate;
+}
+
+.group.is-visible{
+    width: 90%;
+    animation: html 2s alternate;
+}
+
+.Design.is-visible{
+    width: 80%;
+    animation: design 2s alternate;
+}
+
+.ux.is-visible{
+    width: 90%;
+    animation: html 2s alternate;
+}
+
+
+@keyframes html{
+
+    0%{
+        opacity: 0;
+        width: 0%;
+    }
+    100%{
+        width: 90%;
+        opacity: 1;
+    }
+
+}
+
+
+@keyframes design{
+
+    0%{
+        opacity: 0;
+        width: 0%;
+    }
+    100%{
+        width: 80%;
+        opacity: 1;
+    }
+
+}
+
+
+.ProgramerrImage.is-visible{
+    animation: Myani 2s;
+}
+
+@keyframes Myani{
+
+    0%{
+        left: -10px;
+        opacity: 0;
+    }
+    100%{
+        left: 0;
+        opacity: 1;
+    }
+
+}
+
+.myImage2.is-visible{
+    animation: MyAni22 3s;
+
+}
+
+@keyframes MyAni22{
+
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
